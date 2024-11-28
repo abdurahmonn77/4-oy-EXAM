@@ -1,6 +1,6 @@
 // 5.
 // let speed = prompt("Tezlikni kiriting")
-// let score = (speed - 70) / 5
+// let score = Math.floor((speed - 70) / 5)
 
 // if(speed < 70) {
 //     console.log("Hammasi yaxshi");
